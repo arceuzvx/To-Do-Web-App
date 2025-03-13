@@ -140,9 +140,6 @@ For production deployment:
 - SQLite (default database)
 - SVG icons
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 - Bootstrap for the responsive framework
 - SVG icons for the modern UI elements
